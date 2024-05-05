@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: nginx
+  repository: rahulwagh17/kubernetes:jhooq-k8s-springboot
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
