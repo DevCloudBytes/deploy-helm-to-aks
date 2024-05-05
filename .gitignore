@@ -1,0 +1,7 @@
+
+# ignore ide files
+
+.idea
+
+# ignore package
+**/*.tgz
