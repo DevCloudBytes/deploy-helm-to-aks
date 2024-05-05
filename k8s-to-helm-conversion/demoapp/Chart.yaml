@@ -1,6 +1,6 @@
 apiVersion: v2
 name: demoapp
-description: sample helm app
+description: convert k8s to helm
 
 # A chart can be either an 'application' or a 'library' chart.
 #
